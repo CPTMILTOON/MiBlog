@@ -1,0 +1,13 @@
+baseURL = "https://tusitio.com"
+languageCode = "es"
+title = "Proyecto Robot de Limpieza"
+theme = "PaperMod"
+
+[params]
+  description = "Sitio oficial del proyecto conjunto entre [Jaiser] y [AIEP]."
+  defaultTheme = "dark"
+
+  customCSS = ["css/custom.css"]
+
+  logo = "/static/images/logo-empresa.png"
+  logo_institucion = "/static/images/logo-institucion.png"

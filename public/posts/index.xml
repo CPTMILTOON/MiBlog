@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:01:29 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Tue, 04 Feb 2025 15:01:29 -0300</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>&lt;p&gt;Se ganaba esa partida wn&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
